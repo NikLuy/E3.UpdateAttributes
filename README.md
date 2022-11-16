@@ -1,4 +1,5 @@
 # E3.UpdateAttributes
+This is a Plugin for E3.Series 
 Check Database for Attributes and Update only selected 
 Liesst alle vorhandenen Attribute aus der Datenbank und aktualisiert die selektierten. 
 
