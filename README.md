@@ -12,10 +12,12 @@ Start E3
 Im den Projekteigenschaften 
 
 ![image](https://user-images.githubusercontent.com/115484561/202109577-14cadee4-c0aa-46c0-baad-3631d7a77bd4.png)
+
 Folgendes unter Buildereignisse PostBuild eintragen 
 xcopy  /E /Y "$(TargetDir)*.*" %ProgramData%\Zuken\E3.series\PlugIns\E3.UpdateAttrinutes\
 
 ![image](https://user-images.githubusercontent.com/115484561/202109739-a77824ed-e69e-4f60-a40b-81f95eb49160.png)
+
 Unter Debuggen 
 Externes Program Starten und die E3 Version auswählen 
 bei den Befehlszeilenargumenten die Version spezifizieren bei mir /schema
