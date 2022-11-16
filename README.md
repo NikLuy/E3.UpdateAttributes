@@ -2,7 +2,8 @@
 This is a Plugin for E3.Series 
 
 The Plugin get a list of all Attributes the selected device has and Update only selected Attributes
-Liesst alle vorhandenen Attribute aus der Datenbank und aktualisiert die selektierten. 
+
+Das Plugin liesst alle vorhandenen Attribute eines Bauteils aus der Datenbank und aktualisiert die selektierten. 
 
 ## Installation
 Close E3
