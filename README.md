@@ -1,6 +1,7 @@
 # E3.UpdateAttributes
 This is a Plugin for E3.Series 
-Check Database for Attributes and Update only selected 
+
+The Plugin get a list of all Attributes the selected device has and Update only selected Attributes
 Liesst alle vorhandenen Attribute aus der Datenbank und aktualisiert die selektierten. 
 
 ## Installation
