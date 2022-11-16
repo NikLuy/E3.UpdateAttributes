@@ -2,8 +2,11 @@
 This is a Plugin for E3.Series 
 
 The Plugin get a list of all Attributes the selected device has and Update only selected Attributes
+ReleasVersion in Alpha State
 
 Das Plugin liesst alle vorhandenen Attribute eines Bauteils aus der Datenbank und aktualisiert die selektierten. 
+ReleasVersion nur angetestet was die Stabilität betrifft. 
+
 
 ## Installation
 Close E3
